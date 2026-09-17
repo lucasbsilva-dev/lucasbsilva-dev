@@ -1,16 +1,20 @@
-## Hi there 👋
+# Lucas Barbosa
 
-<!--
-**lucasbsilva-dev/lucasbsilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor back-end em formação, focado em Java e Spring Boot. Estudante de ADS em Recife-PE.
 
-Here are some ideas to get you started:
+## De onde venho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dois anos como estagiário de suporte de TI na Secretaria de Educação de Pernambuco, atendendo chamados do dia a dia: configuração de rede e IP, impressoras, manutenção das máquinas dos usuários.
+
+Foi ali que decidi ir para o desenvolvimento. Hoje estudo Análise e Desenvolvimento de Sistemas na UniFBV, com conclusão em 2027.
+
+## No que estou trabalhando
+
+**Sovarais** — ERP para uma empresa que vende e instala varais: gerencia clientes, produtos, serviços, pedidos e usuários. Projeto em trio; sou responsável pelo back-end em Java com Spring Boot.
+
+Trabalho hoje na camada BFF (Backend for Frontend), que adapta o formato das telas para o formato dos serviços. Antes de codar, escrevo o contrato da API em Markdown e valido com quem implementa o domínio. Foi assim que encontrei uma divergência entre o CPF gravado sem máscara no banco e a tela enviando com máscara, que quebraria todos os cadastros em produção.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-barbosa-0115ba234/)
+- Email: barbosalucas84@gmail.com
