@@ -10,9 +10,11 @@ Foi ali que decidi ir para o desenvolvimento. Hoje estudo Análise e Desenvolvim
 
 ## No que estou trabalhando
 
-**Sovarais** — ERP para uma empresa que vende e instala varais: gerencia clientes, produtos, serviços, pedidos e usuários. Projeto em trio; sou responsável pelo back-end em Java com Spring Boot.
+**Sovarais** — ERP para uma empresa que vende e instala varais: gerencia clientes, produtos, serviços, pedidos e usuários. Projeto em trio, estruturado em microserviços com arquitetura hexagonal. Sou responsável pelo back-end em Java 21 e Spring Boot, na camada BFF.
 
 Trabalho hoje na camada BFF (Backend for Frontend), que adapta o formato das telas para o formato dos serviços. Antes de codar, escrevo o contrato da API em Markdown e valido com quem implementa o domínio. Foi assim que encontrei uma divergência entre o CPF gravado sem máscara no banco e a tela enviando com máscara, que quebraria todos os cadastros em produção.
+
+Stack do projeto: Java 21, Spring Boot 3.4.5, Angular, PostgreSQL, Docker, Kubernetes e CI/CD no GitHub Actions.
 
 ## Contato
 
